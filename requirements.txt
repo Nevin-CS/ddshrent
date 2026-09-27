@@ -1,8 +1,6 @@
-gradio>=5.0
+gradio>=5.0,<6.0
 openai>=1.40
-pinecone>=5.0
 llama-index
-llama-index-vector-stores-pinecone
 llama-index-readers-file
 llama-index-embeddings-openai
 llama-index-llms-openai
